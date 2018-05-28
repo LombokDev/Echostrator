@@ -37,14 +37,7 @@ Workflow diatas pada setiap kegiatan terus berulang. Tujuan proyek ini adalah me
 
 
 ## Ajuan Perekayasaan
-**Saya mengajukan alur program ini agar direkayasa seperti keterangan dibawah**
-
-<!--TODO tambahkan keterangan alur perekayasaan.
-
-segini dulu deh. yang penting tujuan projeknya sudah dijelaskan. motidur dulu. ngantuk.
-
-Tool ini diharapkan agar _portable_ sebisa mungkin, sehingga akan direyasa dengan ketentuan:
-
-Setiap kegiatan akan memiliki
--->
-
+**Saya mengajukan alur program ini agar direkayasa dengan mindset**
+1. Agar project ini flexible untuk setiap jenis kegiatan
+2. Tidak terikat hanya pada kegiatan Lombok Dev
+3. ...
